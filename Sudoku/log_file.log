@@ -1,0 +1,72 @@
+INFO:root:Started
+INFO:root:naked_twins identified: B2 and F6: '57'
+INFO:root:eliminate naked_twins values from! D4: 457
+INFO:root:eliminate naked_twins values from! H8: 46
+INFO:root:... exiting naked_twins
+INFO:root:naked_twins identified: B2 and F6: '57'
+INFO:root:... exiting naked_twins
+INFO:root:naked_twins identified: B2 and F6: '57'
+INFO:root:... exiting naked_twins
+INFO:root:naked_twins identified: B2 and F6: '57'
+INFO:root:... exiting naked_twins
+INFO:root:naked_twins identified: B2 and F6: '57'
+INFO:root:... exiting naked_twins
+INFO:root:naked_twins identified: H1 and H6: '19'
+INFO:root:naked_twins identified: B2 and F6: '57'
+INFO:root:... exiting naked_twins
+INFO:root:naked_twins identified: H1 and H6: '19'
+INFO:root:... exiting naked_twins
+INFO:root:naked_twins identified: B1 and B9: '89'
+INFO:root:eliminate naked_twins values from! B3: 3789
+INFO:root:eliminate naked_twins values from! B4: 3789
+INFO:root:naked_twins identified: B3 and B4: '37'
+INFO:root:eliminate naked_twins values from! B1: 89
+INFO:root:eliminate naked_twins values from! B9: 89
+INFO:root:naked_twins identified: H1 and H6: '19'
+INFO:root:naked_twins identified: F3 and I3: '89'
+INFO:root:eliminate naked_twins values from! A3: 3789
+INFO:root:eliminate naked_twins values from! B3: 37
+INFO:root:naked_twins identified: D5 and F5: '35'
+INFO:root:eliminate naked_twins values from! C5: 23
+INFO:root:eliminate naked_twins values from! G5: 37
+INFO:root:naked_twins identified: A3 and B3: '37'
+INFO:root:eliminate naked_twins values from! B1: 89
+INFO:root:eliminate naked_twins values from! C2: 89
+INFO:root:naked_twins identified: B1 and C2: '89'
+INFO:root:eliminate naked_twins values from! A3: 37
+INFO:root:eliminate naked_twins values from! B3: 37
+INFO:root:naked_twins identified: D5 and F5: '35'
+INFO:root:... exiting naked_twins
+INFO:root:naked_twins identified: B1 and B9: '89'
+INFO:root:eliminate naked_twins values from! B3: 37
+INFO:root:eliminate naked_twins values from! B4: 37
+INFO:root:naked_twins identified: B3 and B4: '37'
+INFO:root:eliminate naked_twins values from! B1: 89
+INFO:root:eliminate naked_twins values from! B9: 89
+INFO:root:naked_twins identified: H1 and H6: '19'
+INFO:root:naked_twins identified: I2 and I7: '19'
+INFO:root:eliminate naked_twins values from! I3: 89
+INFO:root:naked_twins identified: A3 and B3: '37'
+INFO:root:naked_twins identified: D5 and F5: '35'
+INFO:root:naked_twins identified: B9 and F9: '89'
+INFO:root:eliminate naked_twins values from! D9: 29
+INFO:root:eliminate naked_twins values from! G9: 59
+INFO:root:naked_twins identified: A3 and B3: '37'
+INFO:root:eliminate naked_twins values from! B1: 89
+INFO:root:naked_twins identified: D5 and F5: '35'
+INFO:root:naked_twins identified: H1 and I2: '19'
+INFO:root:naked_twins identified: G8 and I7: '19'
+INFO:root:... exiting naked_twins
+INFO:root:naked_twins identified: B3 and B4: '37'
+INFO:root:naked_twins identified: D1 and F1: '15'
+INFO:root:naked_twins identified: A3 and B3: '37'
+INFO:root:naked_twins identified: D5 and F5: '35'
+INFO:root:naked_twins identified: A3 and B3: '37'
+INFO:root:naked_twins identified: D1 and F1: '15'
+INFO:root:naked_twins identified: D5 and F5: '35'
+INFO:root:... exiting naked_twins
+INFO:root:naked_twins identified: D5 and F5: '35'
+INFO:root:naked_twins identified: D5 and F5: '35'
+INFO:root:... exiting naked_twins
+INFO:root:... exiting naked_twins
+INFO:root:Finished

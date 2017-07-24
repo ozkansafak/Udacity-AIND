@@ -1,0 +1,28 @@
+{
+    "tests": [
+        {
+            "description": "the README has been modified.",
+            "traceback": "Traceback (most recent call last):\n  File \"run3.py\", line 128, in test_readme\n    advice = 'Please answer the questions provided in the README.')\n  File \"/home/vmuser_qtavdrjo/utils.py\", line 38, in assertNotEqual\n    super(AINDTestCase, self).assertNotEqual(a, b, msg)\nAssertionError: 0 == 0 : \n",
+            "message": null,
+            "advice": "Please answer the questions provided in the README.",
+            "result": "F",
+            "rubric_item_id": null
+        },
+        {
+            "description": "the naked_twins method applies the 'naked twins' heuristic.",
+            "traceback": "",
+            "message": null,
+            "advice": null,
+            "result": ".",
+            "rubric_item_id": "5531"
+        },
+        {
+            "description": "the solve method produces a valid solution.",
+            "traceback": "",
+            "message": null,
+            "advice": null,
+            "result": ".",
+            "rubric_item_id": "5530"
+        }
+    ]
+}
